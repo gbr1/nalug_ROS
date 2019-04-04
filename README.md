@@ -4,7 +4,7 @@ Repository contenente i file necessari per il workshop su ROS
 
 ## Requisiti
 * Un ***laptop non ARM*** con almeno ***4GB di RAM*** (la macchina virtuale richiede 2GB)
-* ***Virtualbox***, scaricabile [qui](https://www.virtualbox.org/wiki/Downloads).  Scarica solo l'applicativo, le addons verranno scaricate da virtualbox al primo avvio.
+* ***Virtualbox***, scaricabile [qui](https://www.virtualbox.org/wiki/Downloads). Scaricare anche l'[extension pack](https://download.virtualbox.org/virtualbox/6.0.4/Oracle_VM_VirtualBox_Extension_Pack-6.0.4.vbox-extpack) ed installarlo.
 
 ## Cosa c'è installato sulla macchina virtuale
 * [Ubuntu 16.04.5](http://releases.ubuntu.com/16.04/)
