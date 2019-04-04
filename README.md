@@ -3,7 +3,7 @@ Repository contenente i file necessari per il workshop su ROS
 
 
 ## Requisiti
-* Un laptop con almeno 4GB di RAM (la macchina virtuale ne usa 2)
+* Un laptop non ARM con almeno 4GB di RAM (la macchina virtuale richiede 2GB)
 * Virtualbox
 
 ## Cosa c'è sulla macchina virtuale
@@ -12,7 +12,7 @@ Repository contenente i file necessari per il workshop su ROS
 * [Roboware Studio](http://www.roboware.me/#/home)
 
 ## Setup
-1. Scaricare questo repository.
+1. Scaricare la macchina virtuale da questo [link](https://mega.nz/#!EkdRBQoL!zLqq67t9Mh6iqqFn0-Wt69XrkFbgnisL4S_UER74rD8).
 2. Usando Virtualbox, far partire la macchina virtuale **nalug_ros.vdi**.
 3. Accedere all'utente ***nalug*** usando la password **nalug**.
 4. Installare le **guest additions**.
