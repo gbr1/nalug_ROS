@@ -4,7 +4,7 @@ Repository contenente i file necessari per il workshop su ROS
 
 ## Requisiti
 * Un ***laptop non ARM*** con almeno ***4GB di RAM*** (la macchina virtuale richiede 2GB)
-* ***Virtualbox***, scaricabile [qui](https://www.virtualbox.org/wiki/Downloads).  Scarica solo l'applicativo.
+* ***Virtualbox***, scaricabile [qui](https://www.virtualbox.org/wiki/Downloads).  Scarica solo l'applicativo, le addons verranno scaricate da virtualbox al primo avvio.
 
 ## Cosa c'è installato sulla macchina virtuale
 * [Ubuntu 16.04.5](http://releases.ubuntu.com/16.04/)
@@ -19,13 +19,13 @@ Usare questo [link](https://mega.nz/#!EkdRBQoL!zLqq67t9Mh6iqqFn0-Wt69XrkFbgnisL4
 * inserire il file **nalug_ros.ova** cliccando sul logo della cartella e completando il percorso
 * cliccare su ***continue***
 * cliccare su ***import***
-* nella schermata principale di Virtualbox comparirà una macchine virtuale "***nalug_ros**"
+* nella schermata principale di Virtualbox comparirà una macchine virtuale "***nalug_ros***"
 * premere su ***Start*** (freccia verde) e automaticamente la macchina virtuale verrà avviata
 ### 3. Fare il login
 * user: ***nalug***
 * password: ***nalug***
 ### 4. Installare le **guest additions**<br>
-_questo step è facoltativo, potrebbe ottimizzare la visualizzazione della macchina virtuale e permettere l'accesso ad alcuni dispositivi_
+_questo step è facoltativo, potrebbe ottimizzare la visualizzazione grafica della macchina virtuale e permettere l'accesso ad alcuni dispositivi_
 ### 5. Seguire il workshop.
 
 
