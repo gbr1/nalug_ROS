@@ -12,7 +12,7 @@ Repository contenente i file necessari per il workshop su ROS
 
 ## Setup
 ### 1. Scaricare la macchina virtuale
-Usare questo [link]() per scaricare il file ***nalug_ros.ova***.
+Usare questo [link](https://mega.nz/file/l4FSlZ5K#1FbpIkEpJxTgaFDWu8QHABk-hMYbi_JZz3_7q-u0YEw) per scaricare il file ***nalug_ros.ova***.
 
 ### 2. Usando Virtualbox:
 * cliccare su ***file*** -> ***import appliance***
