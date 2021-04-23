@@ -1,0 +1,7 @@
+<launch>
+    <include file="$(find tutorial_nalug_urdf)/launch/description.launch" />
+
+    <node pkg="tutorial_nalug_02" type="joint.py" name="joint_control" />
+
+    <node pkg="rviz" type="rviz" name="rviz" />
+</launch>

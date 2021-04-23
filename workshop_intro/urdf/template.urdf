@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<robot name="<robot name>">
+    <link name="<link name>">
+        <visual>
+            <origin rpy="r p y" xyz="x y z" />
+            <geometry>
+                <cylinder  length="m" radius="m" />
+            </geometry>
+            <material name="<color name>">
+                <color rgba="<R G B A>" />
+            </material>
+        </visual>
+    </link>
+    
+    <joint name="<joint name>" type="continuous">
+        <axis xyz="x y z"/>
+        <parent link="<upper link>"/>
+        <child link="<child link>" />
+        <origin rpy="<r p y>" xyz="<x y z>" />
+    </joint>
+    
+</robot>

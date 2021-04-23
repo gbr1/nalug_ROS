@@ -1,0 +1,7 @@
+<launch>
+    <include file="$(find tutorial_nalug_urdf)/launch/description.launch" />
+    <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher">
+        <param name="use_gui" value="true" />
+    </node>
+    <node name="rviz" pkg="rviz" type="rviz" />
+</launch>

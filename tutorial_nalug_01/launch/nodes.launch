@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="tutorial_nalug_01" type="simple_publisher.py" name="talker" output="screen" />
+
+    <node pkg="tutorial_nalug_01" type="simple_subscriber.py" name="listener" output="screen" />
+
+</launch>
